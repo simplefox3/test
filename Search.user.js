@@ -45,9 +45,9 @@
         Anime: {
             Name: "动漫",
             ImgList: [
-                "https://upyun.calendarli.com/Anime/063f89738882f07b08aaebaeaff23510.jpg",
-                "https://upyun.calendarli.com/Anime/1fa0ed09fe6ef8a09b114ba40b8c22f3.jpg",
-                "https://upyun.calendarli.com/Anime/5bc35d75b52b852d12544b7d8c1b88c6.jpg",
+                "https://i0.hdslb.com/bfs/archive/6271f0cf4ae8eb87bd1909fef2e2a2e07a13c5c4.jpg",
+                "https://i2.hdslb.com/bfs/archive/da85c832db61d9858be930908fc04978f7de2d45.jpg",
+                "https://i0.hdslb.com/bfs/archive/663cfd99cd0517b5add9fe3713d4bd882e009d12.jpg",
                 "https://upyun.calendarli.com/Anime/11fed6086ab5ee4cd24989a2a816db77.jpg"
             ]
         },
