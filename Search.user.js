@@ -15,7 +15,7 @@
 // @match        *://www.google.com/search?*
 // @match        *://www.google.com.hk/search?*
 // @match        *://cn.bing.com/search?*
-// @match        *://www.bing.com/search?*
+// @match        *://www2.bing.com/search?*
 // @match        *://www.baidu.com/s?*
 // @match        *://www.baidu.com/baidu?*
 // @match        *://www.sogou.com/web?*
@@ -48,16 +48,16 @@
                 "https://i0.hdslb.com/bfs/archive/6271f0cf4ae8eb87bd1909fef2e2a2e07a13c5c4.jpg",
                 "https://i2.hdslb.com/bfs/archive/da85c832db61d9858be930908fc04978f7de2d45.jpg",
                 "https://i0.hdslb.com/bfs/archive/663cfd99cd0517b5add9fe3713d4bd882e009d12.jpg",
-                "https://upyun.calendarli.com/Anime/11fed6086ab5ee4cd24989a2a816db77.jpg"
+                "https://i1.hdslb.com/bfs/archive/6a0ef1042537986a1d4d0fcfe9c75fc97e813f52.jpg"
             ]
         },
         landscape: {
             Name: "自然风景",
             ImgList: [
-                "https://upyun.calendarli.com/Landscape/150909a21756042f3a38e0db3d47c2c5.jpg",
-                "https://upyun.calendarli.com/Landscape/4940e494d71f9400a85f63288cefe8de.jpeg",
-                "https://upyun.calendarli.com/Landscape/d5603970a58c68cb2e758f8e4924487a.jpeg",
-                "https://upyun.calendarli.com/Landscape/db27f9d0e53d7571926c05faf63ce9a0.jpg"
+                "https://i1.hdslb.com/bfs/archive/954b04e68ef2bab46ab8e4ead691c14fc7396593.jpg",
+                "https://i2.hdslb.com/bfs/archive/b71e3f04621c793b6a6dd22d6affc4c713e7716a.jpg",
+                "https://i1.hdslb.com/bfs/archive/9722f2bd4111b406ba1f86fb42c2cabd4107c8cb.jpg",
+                "https://i2.hdslb.com/bfs/archive/26435a6a55f13c60e91a30b5c7429b7872760226.jpg"
             ]
         }
     };
